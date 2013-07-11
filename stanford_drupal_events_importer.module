@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Stanford Drupal Events Importer feature.
+ */
+
+include_once 'stanford_drupal_events_importer.features.inc';
